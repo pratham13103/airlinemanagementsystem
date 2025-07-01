@@ -54,8 +54,6 @@ A desktop-based Airline Management System built using **Java Swing** and **MySQL
 
 You can insert a default login manually in MySQL:
 
-```sql
 INSERT INTO login VALUES('admin', 'admin');
-
 
 ![App Screenshot](https://github.com/pratham13103/airlinemanagementsystem/blob/master/src/airlinemanagementsystem/icons/landing_page.png)
